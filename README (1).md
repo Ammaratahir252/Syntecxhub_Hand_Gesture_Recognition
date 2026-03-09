@@ -137,6 +137,3 @@ On **Windows**, brightness is increased by +10% using the WMI interface (`pip in
 | Gestures not detected | Improve lighting and hold gesture steady for 1–2 seconds |
 
 ---
-
-## 👨‍💻 Author
-Syntecxhub AI Internship Program
