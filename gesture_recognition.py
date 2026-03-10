@@ -1,8 +1,3 @@
-"""
-Hand Gesture Recognition System
-Syntecxhub Internship - Task 3, Project 2
-Compatible with mediapipe 0.10.30+, Python 3.13
-
 Gestures & Actions:
   👍 Thumbs Up   → Play / Pause
   ✊ Fist         → Previous Track
