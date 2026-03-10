@@ -1,5 +1,4 @@
 # ✋ Hand Gesture Recognition
-### Syntecxhub AI Internship — Task 3, Project 2
 
 Real-time hand gesture recognition using **MediaPipe** + **OpenCV** that maps 8 gestures to system actions including media controls, brightness, screenshot, and more.
 
