@@ -1,7 +1,3 @@
-"""
-action_mapper.py - Fixed brightness and screenshot for Windows
-"""
-
 import platform
 import subprocess
 import time
